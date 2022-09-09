@@ -2,7 +2,7 @@
 #  User configuration
 # -----------------------------------------------------------------------------
 
-title:               컴퓨터 너무 어렵다...
+title:               Heeming
 
 # The unique resource location of your page.
 # Set to `https://<username>.github.io` when hostin다g on GitHub Pages
@@ -18,7 +18,7 @@ tagline:             Software Developer
 # A short description of the page, used in the sidebar and as fallback for the meta description tag.
 # Markdown enabled, but don't use more than one paragraph (enforced by `>`)
 description:         >
-  컴공 대학생입니다. 자라나는 중...
+  컴퓨터공학부 대학생
 
 # This should be the same author as first entry in `_data/authors.yml`
 author:
